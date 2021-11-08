@@ -1,0 +1,20 @@
+Q: What is the output of the following code?
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+	for i := 0; i < 4; i++ {
+		defer fmt.Print(i)
+	}
+}
+```
+
+a. 0123
+b. 3210
+c. 0000
+d. 3333
+
+A: b

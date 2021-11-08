@@ -1,0 +1,14 @@
+mode: set
+hehe/main.go:22.58,33.2 1 1
+hehe/main.go:35.60,37.16 2 0
+hehe/main.go:41.2,43.65 3 0
+hehe/main.go:46.2,46.19 1 0
+hehe/main.go:37.16,39.3 1 0
+hehe/main.go:43.65,45.3 1 0
+hehe/main.go:49.92,51.16 2 1
+hehe/main.go:55.2,55.21 1 1
+hehe/main.go:59.2,60.26 2 1
+hehe/main.go:64.2,64.50 1 1
+hehe/main.go:51.16,53.3 1 0
+hehe/main.go:55.21,57.3 1 0
+hehe/main.go:60.26,62.3 1 1

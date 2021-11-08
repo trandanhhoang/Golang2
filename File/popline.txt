@@ -1,0 +1,7 @@
+{"partner_id":"vIFRzayPMs","label":"S20151392.SG8.A2.BC.300069268"}
+{"partner_id":"u61tpgXrj2","label":"S20151392.SG8.A2.BC.300069512"}
+{"partner_id":"u8BbXWNGkP","label":"S20151392.SG8.A2.BC.300066309"}
+{"partner_id":"baxlQ0LZw1","label":"S20151392.SG8.A2.BC.300061702"}
+{"partner_id":"iyF3Jhg3Cb","label":"S20151392.SG8.A2.BC.300069199"}
+{"partner_id":"W6ATSIHP3Y","label":"S20151392.SG8.A2.BC.300065332"}
+{"partner_id":"8I9hX3NTwQ","label":"S20151392.SG8.A2.BC.300062479"}

@@ -1,0 +1,6 @@
+Q: Arrays are value types. In case of arrays perform as arguments, functions get their copies instead of a reference. Don’t they?
+
+a. Yes
+b. No
+
+A: a

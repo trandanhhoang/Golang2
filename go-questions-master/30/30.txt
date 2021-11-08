@@ -1,0 +1,6 @@
+Q: In Go, does a *break* statement exit from a *select* block?
+
+a. Yes
+b. No
+
+A: a

@@ -1,0 +1,7 @@
+Q: What verb should we use with fmt.Printf to print boolean?
+
+a. %s
+b. %t
+c. %b
+
+A: b

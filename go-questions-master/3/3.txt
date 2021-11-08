@@ -1,0 +1,6 @@
+Q: Can short declaration ":=" be used for defining global variables?
+
+a. Yes
+b. No
+
+A: b
